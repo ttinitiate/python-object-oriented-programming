@@ -1,3 +1,4 @@
+![Tinitiate Python Training](../images/python-tinitiate.png)
 # Python BuiltIns
 * Python's Object-Oriented Programming (OOP) is a powerful paradigm that allows developers to create objects that encapsulate both data and behavior.
 * In this context, there are several built-in variables (often called "dunder" methods or attributes) that facilitate the OOP process.
@@ -83,3 +84,7 @@ class Dog:
 
 print(Dog.__doc__)  # Output: This class represents a dog.
 ```
+
+* * *
+| (c) TINITIATE / Venkata Bhattaram |
+| :--- |

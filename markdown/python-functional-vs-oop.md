@@ -1,3 +1,4 @@
+![Tinitiate Python Training](../images/python-tinitiate.png)
 # Object Oriented Programming Vs Functional Programming
 * To understand the difference between functional code and Object Oriented programming code, Lets consider a single problem and write code in both functional and Object Oriented Code.
 * We demonstrate why Object Oriented Programming is more efficient than Functional Programming for a same problem-solution
@@ -126,3 +127,8 @@ Well-designed class hierarchies provide a clear structure for the application.
 * The choice between functional and object-oriented programming in Python depends on the specific requirements of the project, the preferences of the development team, and the nature of the problem domain.
 * In many cases, a hybrid approach that combines elements of both paradigms can provide a balanced solution, leveraging the strengths of each to create robust and maintainable code.
 * Developers should carefully consider the trade-offs and choose the paradigm that aligns best with the goals of their project.
+
+
+* * *
+| (c) TINITIATE / Venkata Bhattaram |
+| :--- |

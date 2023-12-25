@@ -1,3 +1,4 @@
+![Tinitiate Python Training](../images/python-tinitiate.png)
 # PYTHON OBJECT ORIENTED PROGRAMMING OOP CLASS INHERITANCE
 * Inheritance, is the process of accessing Functions and Members of a
   class from another class.
@@ -201,3 +202,7 @@ ObjPrv = private_test()
 # print the public variable of the class
 print(ObjPrv.public_var)
 ```
+
+* * *
+| (c) TINITIATE / Venkata Bhattaram |
+| :--- |

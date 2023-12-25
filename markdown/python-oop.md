@@ -1,3 +1,4 @@
+![Tinitiate Python Training](../images/python-tinitiate.png)
 # Python Object-Oriented Programming (OOP)
 * Object-Oriented Programming (OOP) is a programming paradigm that uses objects to organize code.
 * Python, a versatile and powerful programming language, supports OOP principles, making it easy to create modular and reusable code.
@@ -168,3 +169,7 @@ Here, animal_sound function takes any object with a speak method, demonstrating 
 
 Conclusion
 Python's support for object-oriented programming provides a powerful and flexible way to structure code. By using classes, encapsulation, inheritance, and polymorphism, developers can create modular, reusable, and maintainable software. Understanding these concepts is essential for building robust and scalable applications in Python.
+
+* * *
+| (c) TINITIATE / Venkata Bhattaram |
+| :--- |
